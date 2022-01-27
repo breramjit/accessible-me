@@ -69,3 +69,8 @@ form button {
 .site-footer {
   padding: 2rem 0;
 }
+
+.current a {
+  background: pink;
+  border-top: 2px solid black;
+}
